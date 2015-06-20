@@ -6,7 +6,7 @@ Raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20H
 Full description of the raw data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
 
 You can easily read the resulting data set using the command read.table:
-df<-read.table("tidy_dataset_with_avg.txt")
+df<-read.table("tidy_dataset_with_avg.txt", header=TRUE)
 
 
 

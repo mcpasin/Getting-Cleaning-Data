@@ -1,6 +1,6 @@
 # Getting-Cleaning-Data Course Project
 
-This readme document describes step by step how to prepare and clean the dataset presented in the Course Project.
+This __readme__ document describes step by step how to prepare and clean the dataset presented in the Course Project.
 
 1) Unzip the source file with the data in a local directory of your machine (you can find the zip file here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 

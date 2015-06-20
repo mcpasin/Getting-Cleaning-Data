@@ -79,4 +79,4 @@ colnames(df2)[1:2]<-c("subject","activity_type")
 str(df2) #is a data frame, subject is integer, activity_type is factor and the rest of columns are all numeric class.
 
 #Write final dataset in a .txt file:
-write.table(df2, "tidy_dataset_with_avg.txt")
+write.table(df2, "tidy_dataset_with_avg.txt", row.name=FALSE)

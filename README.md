@@ -1,5 +1,4 @@
-# Getting-Cleaning-Data
-A repo for the course Getting and Cleaning Data
+# Getting-Cleaning-Data Course Project Readme
 
 This readme document describes step by step how to prepare and clean the dataset presented in the Course Project.
 

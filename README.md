@@ -1,4 +1,4 @@
-# Getting-Cleaning-Data Course Project Readme
+# Getting-Cleaning-Data Course Project
 
 This readme document describes step by step how to prepare and clean the dataset presented in the Course Project.
 
